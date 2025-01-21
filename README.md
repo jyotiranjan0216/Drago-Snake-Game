@@ -5,7 +5,7 @@
   It also include sounds for more interesting.
 </p>
 <div>
-  Link of this game is here:
+  <h1>Link of this game is here:</h1>
   <br>
   (https://drago-snake.netlify.app)
 </div>
